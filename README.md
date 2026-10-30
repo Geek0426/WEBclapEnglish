@@ -46,12 +46,8 @@ So, yes:
 
 **Screenshots show the Japanese edition using test data.** The download on this page is the English edition. Some information has been hidden for publication.
 
-### Design settings and thank-you preview
-
-![Japanese-edition design settings and thank-you preview using test data](screenshots/design-preview.jpg)
-
 <details>
-<summary>More screenshots: dashboard, feature settings, replies, and button gallery</summary>
+<summary><h3>More screenshots: dashboard, feature settings, replies, and button gallery</h3></summary>
 
 ### Dashboard and reply editor
 
@@ -70,6 +66,10 @@ So, yes:
 ![Japanese-edition button gallery with copyable embed codes, excerpt](screenshots/button-gallery.jpg)
 
 </details>
+
+### Design settings and thank-you preview
+
+![Japanese-edition design settings and thank-you preview using test data](screenshots/design-preview.jpg)
 
 ---
 
