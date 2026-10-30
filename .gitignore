@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/README.md
+!/RELEASE_NOTES.md
+!/Guide.html
+!/screenshots/
+/screenshots/*
+!/screenshots/*.png
+!/buttons/
