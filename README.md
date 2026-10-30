@@ -42,9 +42,21 @@ So, yes:
 
 ---
 
+## What's new in 1.1.0 (October 31, 2026)
+
+- The calendar uses bold dates for days with claps, red dots for new messages, and blue dots for days with messages / replies. Existing read status is preserved.
+- Select a year and month to jump directly to older records.
+- Added Message history, ordered by received time with the newest first. The number of messages per page adapts to message length. Click a received date to open that day's records.
+- The design settings now display the public URL for each clap page and replies page.
+- Updated the Japanese and English interfaces and guides.
+
+[Updating from 1.0.0](UPDATE.md)
+
+---
+
 ## Screenshots (Japanese edition)
 
-**Screenshots show the Japanese edition using test data.** The download on this page is the English edition. Some information has been hidden for publication.
+**Screenshots show the Japanese edition 1.0.0 using test data.** They do not show the calendar changes, Message history, or public-URL display added in 1.1.0. The download on this page is the English edition. Some information has been hidden for publication.
 
 <details>
 <summary><h3>More screenshots: dashboard, feature settings, replies, and button gallery</h3></summary>
@@ -192,8 +204,8 @@ Download the ZIP for your preferred language from GitHub **Releases**.
 
 | File | Language |
 | --- | --- |
-| [WEBclap-sai-1.0.0-ja.zip](https://github.com/Geek0426/WEBclap/releases/latest) | Japanese |
-| [WEBclap-sai-1.0.0-en.zip](https://github.com/Geek0426/WEBclapEnglish/releases/latest) | English |
+| [WEBclap-sai-1.1.0-ja.zip](https://github.com/Geek0426/WEBclap/releases/latest) | Japanese |
+| [WEBclap-sai-1.1.0-en.zip](https://github.com/Geek0426/WEBclapEnglish/releases/latest) | English |
 
 [日本語版 / WEB拍手（再）](https://github.com/Geek0426/WEBclap)
 
@@ -209,7 +221,7 @@ Installation, requirements, usage, backups, and terms of use are all in there.
 
 ## Important installation notes
 
-This package is for a **new installation**.
+For a new installation, follow the notes below. **If you use version 1.0.0 of this app, follow the [update steps](UPDATE.md) instead.**
 
 Please don't overwrite an old Web Clap installation or another app's folder with a casual:
 
