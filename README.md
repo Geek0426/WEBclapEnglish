@@ -42,6 +42,37 @@ So, yes:
 
 ---
 
+## Screenshots (Japanese edition)
+
+**Screenshots show the Japanese edition using test data.** The download on this page is the English edition. Some information has been hidden for publication.
+
+### Design settings and thank-you preview
+
+![Japanese-edition design settings and thank-you preview using test data](screenshots/design-preview.jpg)
+
+<details>
+<summary>More screenshots: dashboard, feature settings, replies, and button gallery</summary>
+
+### Dashboard and reply editor
+
+![Japanese-edition clap counts, calendar, message, and reply editor using test data](screenshots/home-reply.jpg)
+
+### Feature settings
+
+![Japanese-edition thank-you page, popup, daily clap limit, and email settings using test data](screenshots/feature-settings.jpg)
+
+### Public replies page (dark theme)
+
+![Japanese-edition public replies page with the dark theme using test data](screenshots/replies-dark.jpg)
+
+### Button gallery and copyable embed codes (excerpt)
+
+![Japanese-edition button gallery with copyable embed codes, excerpt](screenshots/button-gallery.jpg)
+
+</details>
+
+---
+
 ## What it does
 
 - 👏 **Receive claps**  

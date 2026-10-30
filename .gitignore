@@ -6,4 +6,5 @@
 !/screenshots/
 /screenshots/*
 !/screenshots/*.png
+!/screenshots/*.jpg
 !/buttons/
